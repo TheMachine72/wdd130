@@ -1,0 +1,31 @@
+Serif: classic look, good for traditional project (books, newspaper).
+Sans Serif : good for all of the devices, easy to read.
+Display Fonts: good for titles and headers. (Script, Blacktter, ALL CAPS, Fancy)
+Because they are Decorative it is good for small amount of text.
+Titles, header, graphic desing.
+Casual, Neutral, Exotic or Graphic.
+
+Think about wich one to use and the pourpose they will have on the text.
+
+**Comic Sans, Jokerman, Papyrus, Brush Script, Curlz and some more have extra bagage on it,
+they have a reputation of being outdated and over use.**
+
+Other fonts like it but not over use: *BubbleBoddy, *Spirax, *Macondo, Comic Relief,
+Cherry Swash, Milonga.
+
+**When deciding which one to use remember: less is more. It is best to limit yourself to 1 or
+2 per project.**
+
+
+Try fonts that are:
+**Different but complementary**
+**Sans Serif with Serif**
+**Tall Fonts and Short Fonts**
+**Decorative with simple Fonts**
+
+Kerning
+Leading
+Tracking
+Hierarchy
+
+
