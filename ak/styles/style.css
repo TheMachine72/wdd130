@@ -69,6 +69,12 @@
 }
 .button-box {
     text-align: center;
+    background-color: #d9c2a3;
+    color: black;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #4293b0;
 }
 .book {
     text-decoration: none;
